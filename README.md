@@ -27,4 +27,4 @@
   <a href = "mailto:polysilveira11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/Poly011/Poly011/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/<Poly011>/<Poly011>/blob/output/github-contribution-grid-snake2.svg)
